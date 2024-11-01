@@ -1,3 +1,0 @@
-git add .
-git commit -m "Minor changes"
-git push origin <branch-name>
